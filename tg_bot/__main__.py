@@ -28,22 +28,22 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello {}, My Name Is {} !
+Hello {firstname}, My Name Is {raxprobot} !
 
 I am a group management bot With Some Special Features.
-To add me to your group click ["HERE"](t.me/Anierobot?startgroup=botstart)
-You can find my list of available commands with /help.
- 
-See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
+To add me to your group click ["HERE"](t.me/rax_pro_bot?startgroup=botstart)
+You can find my list of available commands with /help
 
-The Source Of The Bot is [Here](https://github.com/Avishekbhattacharjee/Anie-Robot/)
+See [B.
+
+
 
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name *{raxprobot}*.
 
 *Main* commands available:
  - /start: start the bot
